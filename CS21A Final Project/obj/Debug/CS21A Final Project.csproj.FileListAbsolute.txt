@@ -1,0 +1,21 @@
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\bin\Debug\CS21A Final Project.exe.config
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\bin\Debug\CS21A Final Project.exe
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\bin\Debug\CS21A Final Project.pdb
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.csprojAssemblyReference.cache
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A_Final_Project.Form1.resources
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A_Final_Project.Properties.Resources.resources
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.csproj.GenerateResource.cache
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.csproj.CoreCompileInputs.cache
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.exe
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.pdb
+D:\College\Others\Visual Studio Projects\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A_Final_Project.Form2.resources
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\bin\Debug\CS21A Final Project.exe.config
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.exe
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.pdb
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\bin\Debug\CS21A Final Project.exe
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\bin\Debug\CS21A Final Project.pdb
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A_Final_Project.Form1.resources
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A_Final_Project.Form2.resources
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A_Final_Project.Properties.Resources.resources
+C:\Users\Davin Cuaso\Desktop\Ateneo\First Sem\CS 21A\CS21A Final Project\CS21A Final Project\obj\Debug\CS21A Final Project.csproj.GenerateResource.Cache
